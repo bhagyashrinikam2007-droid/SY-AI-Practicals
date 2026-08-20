@@ -1,4 +1,4 @@
-dog(charlie).
+dog(charlie).
 dog(chip).
 cat(milo).
 
